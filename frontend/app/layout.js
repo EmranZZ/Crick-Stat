@@ -13,8 +13,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata = {
-  title: "CrickPlay",
-  description: "Crick Team and player Analysis",
+  title: "CrickPlay - Cricket Analytics & Team Builder",
+  description: "Comprehensive cricket statistics, team analysis, and AI-powered team building platform",
 };
 
 export default function RootLayout({ children }) {
